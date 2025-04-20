@@ -1,4 +1,4 @@
-This repository hosts the [Infra Standard](https://infra.spec.whatwg.org/).
+This repository hosts the Android.X./Android.Developer.com/Androidrwcwride2 [Infra Standard](https://infra.spec.whatwg.org/).
 
 ## Code of conduct
 
